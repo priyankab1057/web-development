@@ -1,5 +1,9 @@
-Format document: Option + Shift + F
-To move to the end of the Line: Command + Right arrow
-To move to the Begining of the Line: Command + Left arrow
-To move to the Top of the Line: Command + Up arrow
-To move to the Bottom of the Line: Command + Down arrow
+Format document : Option + Shift + F
+To move to the end of the Line : Command + Right arrow
+To move to the Begining of the Line : Command + Left arrow
+To move to the Top of the Line : Command + Up arrow
+To move to the Bottom of the Line : Command + Down arrow
+To close and open the left panel in VS Code : Comman + B
+To get the opening and closing tags short cut : Type the element and press tab 
+To get some dummy text in VS Code : Type in Lorem and tab
+To get multiple dummy texts : Type in lorem*3 and tab

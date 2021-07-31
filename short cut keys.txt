@@ -12,4 +12,6 @@ To generate the HTML Skeleton : ! and Tab
 To open up settings in VS Code : Command + , 
 To duplicate stuff: shift + option + down arrow 
 To duplicate stuff: shift + option + down arrow 
+To open a new file in VS Code : Command + N 
+To open control palette in VS Code : Command + shift + P 
 

@@ -9,3 +9,6 @@ To get some dummy text in VS Code : Type in Lorem and tab
 To get multiple dummy texts : Type in lorem*3 and tab
 To open the developer tools in mac: Command + Option + C
 To generate the HTML Skeleton : ! and Tab
+To open up settings in VS Code : Command + , 
+To duplicate stuff: shift + option + down arrow 
+To duplicate stuff: shift + option + down arrow 

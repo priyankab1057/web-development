@@ -14,3 +14,52 @@ To duplicate stuff: shift + option + down arrow
 To duplicate stuff: shift + option + down arrow 
 To open a new file in VS Code : Command + N 
 To open control palette in VS Code : Command + shift + P
+To open the voice over on Mac : Command + F5 (For screen readers)
+
+Emmet: It's an extension in VS Code and a built in plugin greatly used for webdevelopers!!
+
+Emmet short cuts:
+
+if you want to have 
+<nav>
+    <ul>
+        <li></li>
+    </ul>
+</nav>
+
+then you simply type in nav>ul>li
+
+if you want to create siblings like below:
+
+<h1></h1>
+<h2></h2>
+<h3></h3>
+
+then just type h1+h2+h3
+
+Use this: ul>li*5 for below syntax
+
+<ul>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+</ul>
+
+
+Use this:  nav>ul>li*4>a[href=www.$.com] for below syntax
+
+<nav>
+    <ul>
+        <li><a href="www.1.com"></a></li>
+        <li><a href="www.2.com"></a></li>
+        <li><a href="www.3.com"></a></li>
+        <li><a href="www.4.com"></a></li>
+    </ul>
+</nav>
+
+if you want text inside anchor tags then use {}
+
+
+

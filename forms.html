@@ -1,11 +1,13 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Forms</title>
 </head>
+
 <body>
     <h1>Forms Introduction</h1>
     <form action="html_basics.html">
@@ -15,7 +17,28 @@
         <input type="password" placeholder="password">
         <input type="date" placeholder="enter todays date">
         <input type="time" placeholder="time">
-        <input type="submit"> 
+        <input type="submit">
+    </form>
+    <h2> Forms with Labels</h2>
+    <form action="about.html">
+        <p>
+            <label for="username"> Username: </label>
+            <input type="text" placeholder="Enter your username" id="username">
+        </p>
+
+        <p>
+            <label for="password"> Password: </label> 
+            <input type="password" placeholder="Enter your password" id="password">
+        </p>
+
+        <p>
+            <label for="colors"> Select Color: </label> 
+            <input type="color" id="colors">
+        </p>
+        <p>
+            <label>Time: <input type="time" id="time"></label>
+        </p>
     </form>
 </body>
+
 </html>

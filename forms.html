@@ -17,13 +17,13 @@
         <input type="password" placeholder="password">
         <input type="date" placeholder="enter todays date">
         <input type="time" placeholder="time">
-        <input type="submit">
+        <input type="submit" value="click me!">
     </form>
     <h2> Forms with Labels</h2>
     <form action="about.html">
         <p>
             <label for="username"> Username: </label>
-            <input type="text" placeholder="Enter your username" id="username">
+            <input type="text" placeholder="Enter your username" id="username" name="search"> 
         </p>
 
         <p>
@@ -41,6 +41,27 @@
         <p>
             <label>Date: <input type="date"></label>
         </p>
+        <button>Submit</button>
+        <button type="button"> This is a button</button>
+        <button type="submit"> This is a Submit button</button>
+    </form>
+    <h3>Forms with search!!!</h3>
+    <form action="https://www.google.com/search">
+        <label for="username"></label>
+        <input type="text" id="username" name="q">
+        <button>Search Google!!</button>
+    </form>
+    <h3>Search with Youtube!!</h3>
+    <form action="https://www.youtube.com/results">
+        <label for="username"></label>
+        <input type="text" id="username" name="search_query">
+        <button>Search Youtube!!</button>
+    </form>
+    <h3>Reddit search!!</h3>
+    <form action="https://www.reddit.com/search">
+        <label for="username"></label>
+        <input type="text" id="username" name="q">
+        <button>Search Reddit!!</button>
     </form>
 </body>
 

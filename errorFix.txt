@@ -1,0 +1,3 @@
+git remote set-url origin https://username:password@github.com/user/web-development.git
+
+Add this command to enter password (public access token)

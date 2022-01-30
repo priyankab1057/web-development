@@ -1,3 +1,14 @@
+Enter Password when you do a git push (only use personal access token issue)
+
+command:
+
 git remote set-url origin https://username:password@github.com/user/web-development.git
 
 Add this command to enter password (public access token)
+
+**********************
+
+
+
+
+

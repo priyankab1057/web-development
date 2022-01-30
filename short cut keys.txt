@@ -1,4 +1,5 @@
 Format document : Option + Shift + F
+To refresh a browser : Command + R 
 To move to the end of the Line : Command + Right arrow
 To move to the Begining of the Line : Command + Left arrow
 To move to the Top of the Line : Command + Up arrow

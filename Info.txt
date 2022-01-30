@@ -1,0 +1,12 @@
+Spectacle - It's an Application to rearrange the windows only on a MAC. Cannot use this in Windows Machine. 
+
+https://www.spectacleapp.com/
+
+Move and resize windows with ease!!
+
+*******************
+
+Visual studio extensions - Browse Online:
+
+https://code.visualstudio.com/
+
